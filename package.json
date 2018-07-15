@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.4.1",
     "react-native": "0.56.0",
+    "react-native-background-geolocation": "^2.12.2",
     "react-native-maps": "^0.21.0"
   },
   "devDependencies": {
